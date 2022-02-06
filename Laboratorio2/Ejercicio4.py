@@ -1,0 +1,1 @@
+# Se inserta dentro de la lista el elemento [6,7] #Ejercicio 4
